@@ -1,0 +1,57 @@
+VARIABLES - stores data while the a program runs
+	//car = "toyota"
+	Multiple variables
+	To multiple value 
+	 //car = "plane" ," motor" , "allblack"
+	to diff. variable 
+	// car, plane, motor = "vw"," jet" , "bmw"
+	outputing mutiple value
+	use print
+
+
+STRINGS - values that start and ends with cotation 
+	//string ="the boy is going to school"
+
+
+LIST = start end with [] and has commas,inbetween of the value..
+	//List =["good","better","best"]
+
+TUPLES = start and ends with bracket
+	//Tuple =("good","better","best")
+
+
+DICTIONARY- give title to your value 
+	//car={}
+    	car['VW']='VW'
+
+	//car={"VW":"AUDI","GM":"FORD"}
+
+	//food={"rice":jollof"}
+	rice.keys()
+	jollof.Values()
+
+
+
+OPERATORS - are maths symbols.it give the true and false answers
+	//  !,%,&,,+,!=, ==,
+
+
+CONDITIONS-are giving a reason to codes
+	//name = "kankam"
+	male = "kankam"
+	if name == male:
+	print "welcome"
+	else:  
+	print no
+
+	//name=raw_input("what is your favorite car?")
+	if name == 'BMW':
+ 	print "Manufactured by VW"
+	elif name == 'toyota':
+	print 'VW'
+	else:
+ 	print name 
+ 	new_name= raw_input("Manufacture?")
+ 	
+ 	print"it was manufactured by " + new_name
+

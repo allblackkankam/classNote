@@ -1,0 +1,30 @@
+High level java python 
+Low level c c+
+interpreted 
+tutorialspoint.com
+Web development 
+Desktop app
+IOT and big data 
+data base is used for storage
+
+wikiwing200...
+misho3.Col
+
+GIT
+ls- list directory
+cd - change directory 
+git - programme  to interrupt with github
+git clone + the repo directory 
+git status
+git add
+git commit - m 
+git push -u origin master
+
+interactive mode with CMD
+
+PYTHON Identifiers is a way of naming staffs in python
+print - output
+raw_input - start and end in bracket
+
+
+
