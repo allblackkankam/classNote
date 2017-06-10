@@ -1,0 +1,34 @@
+LOOPS: -	outputing mulitiple values in one code
+	#while loop
+	//two=2
+	while(two<100):
+	two= two+2
+	print two
+
+	print 'Done'
+	#for loop
+	//phone=["nokia","samsung"]
+	for item in phone:
+	     if item=="nokia":
+		continue
+		print "bye"
+		print item, "windows"
+		else:
+		print item, "android"
+	print phone
+
+
+FUNCTION: -they are container that hold code that can be called  repeated 
+	//def add(one)
+	     print one + one 
+   
+   	 add(5)
+
+	//def form():
+	name = raw_input("what is your name?")
+	age = raw_input("How old are you?")
+	gender = raw_input("what is your gender?")
+	address = raw_input("where do you live?")
+	return name , age,gender,address
+
+	print form()
